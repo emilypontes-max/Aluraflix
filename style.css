@@ -1,6 +1,6 @@
 body {
    color: blue;
-   background:;
+   background:green;
   margin: 0px; 
 } 
 
@@ -31,7 +31,7 @@ header {
 /*corpo da página*/
 body {
 color: var(--azul);/*cor da fonte*/
-background-color: var(--preto);/*cor de fundo*/
+background-color: var(--verde-calro);/*cor de fundo*/
 margin: 0px; /* não terá margem padrão*/
 }
 
@@ -40,12 +40,12 @@ border: solid 2px;
 border-color: var(--varde);/*cor da borda*/
 padding: 20px;/*espaçamento interno*/
 font-size: 32px;/*tamanho da fonte*/
-color: var(--amarelo);/*cor da fonte*/
+color: var(--cinza);/*cor da fonte*/
 }
 
 .chamada-texto {
-background-color: var(--amarelo);
-color: var(--preto);
+background-color: var(--verde);
+color: var(--cinza);
 margin-right: 20px;/*margem a direita*/
 }
 
