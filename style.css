@@ -30,14 +30,14 @@ header {
 }
 /*corpo da página*/
 body {
-color: var(--branco);/*cor da fonte*/
+color: var(--azul);/*cor da fonte*/
 background-color: var(--preto);/*cor de fundo*/
 margin: 0px; /* não terá margem padrão*/
 }
 
 header {
 border: solid 2px;
-border-color: var(--branco);/*cor da borda*/
+border-color: var(--varde);/*cor da borda*/
 padding: 20px;/*espaçamento interno*/
 font-size: 32px;/*tamanho da fonte*/
 color: var(--amarelo);/*cor da fonte*/
@@ -76,12 +76,12 @@ height: 200px;
 }
 
 .recomendacoes {
-background-color: var(--lilas-claro);
+background-color: var(--rosa-claro);
 margin-left: 30px;/*margem a direita*/
 margin-right: 30px;/*margem a direita*/
 }
 .outras-recomendacoes {
-background-color: var(--amarelo);
+background-color: var(--azul);
 display: flex;
 overflow-x: auto;
 gap: 20px;
@@ -96,6 +96,6 @@ margin-left: 30px;
 
 /*rodapé*/
 footer {
-color: var(--branco);
+color: var(--verde);
 text-align: center;
 }  
