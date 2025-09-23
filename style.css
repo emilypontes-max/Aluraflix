@@ -1,8 +1,8 @@
 body  {
-background-color: #fc97d3;
+background-color: #e31212;
 color: rgb(522, 151, 211);
 
-font-family: "Montserrat", sans-serif;
+font-family: "Hello kitty", sans-serif;
 margin: 0px;
 }
 
@@ -10,7 +10,7 @@ header {
 font-size: 2.5rem;
 border-bottom: inset 2px #d42a8d;
 padding: 20px;
-color: #b04684;
+color: #b0469d;
 text-align: center;
 }
 
@@ -26,7 +26,7 @@ padding-top: 0px;
 }
 
 section {
-background-color: #050003;
+background-color: #f5f7f7;
 padding-top: 80px ;
 padding-bottom: 80px;
 display: flex;
